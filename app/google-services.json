@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655580536141",
+    "project_id": "fir-userloginandroid",
+    "storage_bucket": "fir-userloginandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655580536141:android:5c887f4c2a63965b56ab04",
+        "android_client_info": {
+          "package_name": "ngodangtan.com.firebaseuserloginandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655580536141-enhfhprdtopnu7n2s7vu7774s1miss6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Z53XNL5-jvIXYvKosB2_5VaQZgFf83s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655580536141-enhfhprdtopnu7n2s7vu7774s1miss6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
